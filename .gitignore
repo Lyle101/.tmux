@@ -1,0 +1,5 @@
+/plugins/tmux-resurrect/
+/plugins/tmux-continuum/
+/resurrect
+
+/plugins/tmux-sensible
